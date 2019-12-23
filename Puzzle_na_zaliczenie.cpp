@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿// Autor: Jan Burbicki
+
+#include <stdio.h>
 #include <stdlib.h> 
 #include <time.h> 
 
