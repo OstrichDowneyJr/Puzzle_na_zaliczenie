@@ -1,5 +1,5 @@
 ﻿// Autor: Jan Burbicki
-// Test dla dev
+// Test dla dev cos
 #include <stdio.h>
 #include <stdlib.h> 
 #include <time.h> 
