@@ -1,5 +1,5 @@
 ﻿// Autor: Jan Burbicki
-
+// Test dla dev
 #include <stdio.h>
 #include <stdlib.h> 
 #include <time.h> 
